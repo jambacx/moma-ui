@@ -1,0 +1,228 @@
+Smartdash system documentation Learn about setting up a Smartdash
+Written by Jamba Ganzorig | Last published at: November 20, 2023
+GENERAL INFORMATION (ALL EMPLOYEES)
+1.1 SYSTEM DOCUMENT TO WHOM: ALL
+Smartdash нь компани болон таны хувийн фейсбүүк хуудасны пост, коммент, лайк зэрэг дата мэдээлэлд AI технологиор анализ хийх үйлчилгээ юм.
+SPECIFIC INFORMATION (MARKETING SECTOR, CCS, PRODUCT SPECIALIST, ETC.)
+2.1 BUSINESS REQUIREMENTS
+TO WHOM: ALL
+/ Оруулах хэлбэр: Тухайн системийн үндсэн зорилго, хийгдэх ерөнхий үйлдлүүдийн жагсаалтыг бичих. Шаардлагатай бол
+дэлгэрэнгүй баримт бичгийг хавсаргах, AR-ийн дугаар(холбоос) багтаах /
+Smartdash нь хэрэглэгчийн сэтгэл ханамжийг тухай бүрд бодитоор үнэлж дүгнэх боломжтой. Мөн сошиал сурталчилгааны үр дүнгээ шууд хэмжин, хэрэглэгчийн сэтгэл ханамжийг нэмэгдүүлэх төлөвлөгөө боловсруулахад энэхүү сошиал аналитик үйлчилгээ юм.
+    1. Сэтгэгдлийн Шинжилгээ
+
+Зорилго: Фэйсбүүк дэх постуудын сэтгэгдлийг автоматаар шинжлэх, ангилах.
+Функционал: Сэтгэгдлийг эерэг, сөрөг, тэнцвэртэй гэх мэтчилэн ангилахын тулд орчин үеийн
+хэлний боловсруулалтын алгоритмуудыг ашиглах.
+Мэдэгдэл: Сэтгэгдлүүдийн төлөвлөгөөг товч тайлбарлах тайлан гаргах.
+2. Сөрөг Санал Хүсэлтийг Тайлагнах
+Зорилго: Сөрөг санал хүсэлтийг шуурхай мэдээлэх.
+Функционал: Сөрөг сэтгэгдлийг илрүүлж, шуурхай хяналтанд авах.
+Мэдэгдэл: Сөрөг санал хүсэлтүүд тухайн төслийн холбогдох хүмүүст шуурхай мэдэгдэх систем
+бүрдүүлэх.
+3. Олон Хуудсыг Удирдах
+Зорилго: Олон Фэйсбүүк хуудсыг нэгтгэн удирдах.
+Функционал: Олон Фэйсбүүк хуудасны сэтгэгдэл, постуудыг интеграцчлах, зэрэгцүүлэн шинжлэх.
+4. Хэрэглэгчийн Хандлагын Шинжилгээ
+Зорилго: Брэнд, бүтээгдэхүүн эсвэл сурталчилгааны талаар хэрэглэгчийн ерөнхий хандлагыг ойлгох.
+Арга Зүй: Хэрэглэгчийн хандлагыг тодорхойлохын тулд сэтгэгдлийн анализийн өгөгдлийг нэгтгэх.
+Тайлан: Хугацааны туршид хэрэглэгчийн хандлагын чиг хандлагыг харуулах бүрэн тайлан гаргах. 5. Маркетингийн Аяны Шинжилгээ
+Зорилго: Фэйсбүүк дэх маркетингийн аянуудын нөлөөллийг, хүлээн авалтыг хэмжих Бусад функцууд:
+Хэрэглэгчийн сэтгэл ханамж Автомат хариулт санал болгох Бодитоор шууд хянах
+Тренд аналитик
+2.3 AR DOCUMENTS INFORMATION
+TO WHOM: ALL
+/ Оруулах хэлбэр: Бизнес үнэ цэнэ өгөх хамгийн чухал заалтуудыг бичих. Их бол AR хавсаргах эсвэл холбоос оруулах. /
+ Pre test sheet_AR_2842_Facebook comment analyzer
+ 
+  Div/Dept/Section:
+ITD-ODD
+  Start date End date
+ Planned working date / time:
+ ***
+  2023/06/08 09:00:00
+  Work name:
+AR_2842_Facebook comment analyzer
+  Purpose: Facebook comment analyzer
+  Rollback If necessary
+  Risk: Low
+   2.4 USER ACCESS MANAGEMENT
+TO WHOM: ALL
+/ Оруулах хэлбэр: Тухайн системийн хувьд ямар нэртэй эрхийг эрхийн зохицуулалтын програм дээр үүсгэхийг товч тайлбарласан байхад болно. Эрхий зохицуулалттай холбоотой ерөнхий болон дэлгэрэнгүй мэдээлэл нь эрхийн зохицуулалттай холбоотой ерөнхий article-с үзэх. Холбоосыг зааж өгөх. /
+1) Системийн хэрэглэгчдийн хандалтын төрлүүд:
+Admin - Хандалтын төрөл нь манай байгууллагын харилцагч хариуцсан менежер буюу accountmanagers@mobicom.mn хаяг руу хандсан хэрэглэгчдийг нэмэх хасах зэргээр удирдах боломжтой төрөл юм.
+User - Хандалтын төрөл нь манай системийн үндсэн хэрэглэгч буюу өөрийн пэйж хуудсын эзэмшигч юм.
+2) Server дээрх хандалтын төрлүүд:
+Admin - Хандалтын төрөл нь сервер, сүлжээ буюу backend, frontend зэрэг систем ажиллаж буй
+ 
+cloud орчинд шууд хандаж удирдах боломжтой.
+3) Nice дээрх Comment Analyzer системд эрх нэмүүлэх
+Nice систем дээр эрх үүсгүүлэх хүсэлт гаргахын тулд “Эрхийн зохицуулалт” цэсрүү орж, хүсэлт гаргах хэсэгт доорх "Зураг 1" дагуу хүсэлтийн цонх харагдана. Цонхыг хүсэлтийн дагуу бөглөөд хүсэлтээ илгээхэд "Зураг 2" дагуу процесст шилжинэ. Үүний дагуу холбогдох ажилтнаас таны эрх үүснэ.
+Зураг 1.
+Зураг 2.
+admin Шинэ хэрэглэгч нэмэх, хасах гэх мэт CRUD үйлдлүүд хийх боломжтой.
+   Хандалтын төрөл
+  Хандах зөвшөөрөл
+  user
+  Өөрийн пэйж хуудсуудынхаа нийтлэл, сэтгэгдэл дээр analyze хийх боломжтой.
+ 
+2.6 END-USER MANUAL
+TO WHOM: END-USER
+/ Оруулах хэлбэр: Эцсийн хэрэглэгчид зориулсан гарын авлага, хуудсуудыг холбох. Хэрэглэгчийн гарын авлага хэрхэн бичих
+заавар template байх хэрэгтэй байх. /
+Гарын авлага, мэдээлэл
+2.7 FAQ
+TO WHOM: ALL
+/ Оруулах хэлбэр: Олон удаа асуудаг асуултын хариултуудыг товчоор бичих. Хариултын агуулга их бол өөр sub page үүсгэж
+холбох /
+FAQ
+2.8 GLOSSARY
+TO WHOM: ALL
+/ Оруулах хэлбэр: Их мэдээлэлтэй бол дэд хуудас үүсгэх /
+DEVELOPMENT INFORMATION (SOFTWARE ARCHITECTURE, DEVELOPERS, QA ENGINEER, ETC.)
+3.1 FUNCTIONAL REQUIREMENTS
+TO WHOM: ITS, TOMS
+/ Оруулах хэлбэр: Тухайн системийн хувьд энэ төрлийн шаардлагууд байгаа бол жагсаах. /
+     Коммент анализ
+
+Сөрөг сэтгэгдэл мэдээллэх
+Олон хуудас удирдах Хэрэглэгчийн хандлагын анализ Маркетинг аян аналитик Хэрэглэгчийн сэтгэл ханамж Автомат хариулт санал болгох Бодитоор шууд хянах
+Тренд аналитик
+3.2 NON-FUNCTIONAL REQUIREMENTS TO WHOM: ITS, TOMS
+Performance:
+Хэрэглэгчдэд response өгөх хугацаа хурдан байх AI Model нь сэтгэгдэл ангилах accurate байх
+Reliability:
+Шаардлагууд.
+Scalability:
+Хэрэглэгчийн эрэлт хэрэгцээ нэмэгдэхийн хэрээр систем ачааллал даах.
+Security:
+Мэдээллийн нууцлал байх. Хэрэглэгчийн мэдээллийг нууцлах.
+Maintainability:
+Кодын чанар байх, стандарт дагуу байх Документ бүрэн бүтэн ойлгомжтой байх
+3.3 DATABASE STRUCTURE
+TO WHOM: ITS, TOMS
+/ Оруулах хэлбэр: Өгөгдлийн сангийн хүснэгтийг логик бүтцийг тодорхойлж харуулах. Дэлгэрэнгүй хэсэг, script зэргийг тусдаа хуудас үүсгэнэ гэж тооцох. /
+  
+ 1. Comments Table:
+Зорилго: Хэрэглэгчдийн нийтлэл дээр бичсэн сэтгэгдэл шууд доорх бүтцийн дагуу хадгална.
+Бүтэц:
+id : Unique identifier for each comment.
+comment : Identifier linking to the associated post.
+post_id : Identifier linking to the user who made the comment. created_time : The actual text of the comment.
+2. Predicted Comments Table:
+Зорилго: Хэрэглэгчдийн нийтлэл дээр бичсэн сэтгэгдэл шууд доорх бүтцийн дагуу хадгална. Бүтэц:
+page_id : Unique Facebook page identifier. id : Unique comment identifier.
+comment : Text of the Facebook comment. label : Classification tag for the comment.
+
+post_id : Identifier of the related Facebook post. category : Comment category or type.
+post_ct : Timestamp of post creation. confidence : Confidence level of the label. created_time : Timestamp of comment creation. expire time : Timestamp for data expiration.
+3. Social_account Table:
+Зорилго: Хэрэглэгчдийн сошиал хаяг доорх бүтцийн дагуу хадгална.
+Бүтэц:
+name : The name associated with the social account.
+account_id : Unique identifier for the social account.
+company : The company or organization linked to the account.
+account_type : Type or category of the social account (e.g., personal, business, celebrity). created_time : Timestamp when the social account was created.
+expire_time : Timestamp indicating when the account data may expire or become inactive. updated_time : Timestamp indicating the last update time for the social account information.
+4. Posts Table:
+Зорилго: Хэрэглэгчдийн нийтэлсэн доорх бүтцийн дагуу хадгална.
+Бүтэц:
+id : Unique identifier for the post.
+message : The content or message of the post.
+category : The category or type associated with the post.
+created_time : Timestamp when the post was created.
+expire_time : Timestamp indicating when the post may expire or become inactive. updated_time : Timestamp indicating the last update time for the post.
+5. Posts category Table:
+Зорилго: Хэрэглэгчдийн нийтлэл дээр бичсэн сэтгэгдэл шууд доорх бүтцийн дагуу хадгална.
+Бүтэц:
+id : Unique identifier for each comment.
+comment : Identifier linking to the associated post.
+post_id : Identifier linking to the user who made the comment. created_time : The actual text of the comment.
+6. Invitation Table:
+Зорилго: Хэрэглэгчдийн урисан мэдээлэл доорх бүтцийн дагуу хадгална.
+Бүтэц:
+id : Unique identifier for each comment.
+
+comment : Identifier linking to the associated post.
+post_id : Identifier linking to the user who made the comment. created_time : The actual text of the comment.
+7. Customer Table:
+Зорилго: Хэрэглэгчдийн мэдээллийн дээр бичсэн шууд доорх бүтцийн дагуу хадгална.
+Бүтэц:
+id : Unique identifier for the customer.
+pages : Number of pages associated with the customer. company_id : Customer’s associated company ID firstname : First name of the customer.
+last : Last name of the customer.
+password : Password associated with the customer's account.
+email : Email address of the customer.
+phone : Phone number of the customer.
+id_authority : Identifier for the customer's authority or permissions.
+created_time : Timestamp when the customer's account was created.
+updated_time : Timestamp indicating the last update time for the customer's information.
+8. Payment Table:
+Зорилго: Төлбөр тооцооны доорх бүтцийн дагуу хадгална.
+Бүтэц:
+id : Unique identifier for the payment transaction.
+account_id : Identifier of the associated customer or account.
+amount : The payment amount.
+extend_duration : Duration or period extended due to the payment. vat_lottery_no : VAT (Value Added Tax) lottery number related to the payment. vat_qr : QR code associated with VAT information.
+vat_bill_no : VAT bill number for the payment.
+9. Companies Table:
+Зорилго: Хэрэглэгч байгууллагуудын пэйж хуудас, мэдээллийг хадгална.
+Бүтэц:
+id : Unique identifier for the payment transaction.
+label : Facebook page title, label
+pages : Facebook pages information list (List<{ page_id: string, label: string }>
+
+3.5 API SPECIFICATIONS
+ TO WHOM: ALL
+/ Оруулах хэлбэр: High level sequence diagram эсвэл холболтын зураг оруулж, товч тайлбарлан бичих. Дэлгэрэнгүй бичих бол
+sub-page үүсгэх /
+Postman API List - API Document
+TO WHOM: ITS
+/ Оруулах хэлбэр: Ямар мэдээлэл байх ёстойг, байх ёсгүйг тодорхой болгох. /
+{Production, staging, development environment info Уг системийн ажиллах бүх орчнуудын талаарх мэдээллийг оруулж өгнө. Production, Staging, Development гэх мэт IP,серверийн мэдээлэл, тухайн орчинтой холбоотой анхаарах зүйлс гэх мэт}
+3.8 DEVELOPMENT OF TECHNOLOGY
+TO WHOM: ITS
+/ Оруулах хэлбэр: Сонголт хийсэн шалтгааны хамт товч тодорхой бичих. /
+Development Technology Stack
+1. Tech-stack:
+Front-end:
+NextJS, Javascript
+Back-end:
+Lambda, Python
+       2. Environment:
+
+Cloud:
+AWS (using services like Lambda, DynomoDB)
+4. Version Control:
+Gitlab (latest version)
+5. Continuous Integration & Deployment (CI/CD):
+AWS Amplify for hosting front-end.
+SYSTEM INFORMATION (SYSTEM ARCHITECTURE, SYSTEM ADMINISTRATORS, DATABASE ADMINISTRATOR, NETWORK ENGINEER, SECURITY ANALYST, ETC.)
+4.1 SECURITY REQUIREMENTS
+TO WHOM: ITS, TOMS
+/ Оруулах хэлбэр: Файлыг хавсаргах эсвэл тухайн файл хадгалагдаж байгаа систем рүү чиглүүлсэн мэдээлэл. /
+{Мэдээллийн аюулгүй байдлын шаардлагын хуудсыг бөглөж баталгаажуулсан файлыг хавсаргана}
+       
+4.5 SYSTEM INFRASTRUCTURE DIAGRAM
+ TO WHOM: ITS, TOMS
+/ Оруулах хэлбэр: Ерөнхий топологийн мэдээллийг оруулна. Дэлгэрэнгүй мэдээллийг харахаар бол тэдгээрийг агуулж байгаа
+систем рүү чиглүүлсэн мэдээлэл /
+ 4.10 APPLICATION SERVER
+TO WHOM: ITS, TOMS
+Serverless API - Lambda (Backend) [button to aws lambda]
+Serverless Hosting - Amplify (Frontend) Amplify
+OPERATIONAL INFORMATION (MAINTENANCE ADMINISTRATOR, SHIFT ENGINEER, ETC.)
+  5.3 CONTACT INFORMATION
+
+ TO WHOM: ITS, TOMS
+name
+А. Баясгалан М. Мөнх-Оргил Г. Жамба
+email bayasgalan.a@mobicom.mn munkhorgil.m@mobicom.mn jamba@mobicom.mn
+phone number 99908855 88017979 99184926
+               5.4 LOGGING (SYSTEM LOG, APPLICATION LOG, LOG EXPLANATION) TO WHOM: ITS, TOMS
+Monitoring Log Files
+Хэрэв та CloudWatch service-лүү орсон бол “Log groups” цэсрүү очиж шүүн харах боломжтой. / Зурган доор үзүүлэв /
+Илүү дэлгэрэнгүй харахыг хүсвэл “Live Tail” хэсэг рүү орж real-time харна уу.
+    AWS Cloudwatch service -рүү орж өөрийн харах гэж буй бүлгээр шүүж харна. Cloudwatch service-д:
+
+ 
