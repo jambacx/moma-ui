@@ -1,5 +1,4 @@
-## Explore the World
-
+## Moma-AI Project
 This is a streamlit-based NLP application powering the [Explore the World demo](https://haystack-demo.deepset.ai), it's easy to change and extend and can be used to try out Haystack's capabilities.
 
 ![Screenshot](https://raw.githubusercontent.com/deepset-ai/haystack-demos/main/explore_the_world/screenshot.png)
